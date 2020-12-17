@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/kulturekollective/datamod-nodeJS/issues"
   },
-  "homepage": "https://github.com/kulturekollective/datamod-nodeJS#readme"
+  "homepage": "https://github.com/kulturekollective/datamod-nodeJS#readme",
+  "dependencies": {
+    "directus": "^9.0.0-rc.24",
+    "pg": "^8.5.1"
+  }
 }
